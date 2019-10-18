@@ -19,7 +19,7 @@
         <br>
         <h4>Add new book:</h4>
         
-          Título:<br>
+          Título:<br/>
           <input type="text" id="titulo">
           <br>
           Autor:<br>
