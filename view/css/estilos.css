@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+table,th,td{
+	
+	border:1px solid black;
+	border-collapse:collapse;	
+}
+
+#update{
+	display:none;
+}
+#datak{
+	display:flex;
+	justify-content:space-around;
+}
